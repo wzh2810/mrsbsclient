@@ -4,7 +4,7 @@ public class News {
 	private String title;
 	private String detail;
 	private String comment;
-	private String imageUrl;
+	private String imageUrl; //ͼƬ
 	public String getTitle() {
 		return title;
 	}
